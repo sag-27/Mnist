@@ -1,0 +1,1 @@
+An entry level test for a DL project based on image processing and object detection. The task was to build a CNN model to train the MNIST dataset in both TensorFLow and PyTorch, stack sub patches of images to perform 3D CNN and build an object detector using faster R-CNN. 
